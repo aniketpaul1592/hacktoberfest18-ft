@@ -90,6 +90,7 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Rafael de Souza Santos, Student - Bahia, Brazil
 * Christopher Nash, Software Engineer & Student - Salt Lake City, UT, United States
 * Prajesh puri, student - Delhi, India
+* Aniket Paul, Dev - Bengaluru, India
 * Thomas Lee, Test Engineer - Herzogenaurach, Germany
 * Roberto Kedmenec, JS Developer, Cakovec, Croatia
 * Michael Pimentel, Software Engineer - California, United States
